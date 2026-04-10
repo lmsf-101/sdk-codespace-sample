@@ -1,0 +1,17 @@
+[
+    {
+        "Arn": "arn:aws:lambda:us-west-2:401989331654:function:MonitoringFunction",
+        "ResourceType": "lambda:function",
+        "Service": "lambda"
+    },
+    {
+        "Arn": "arn:aws:s3:::codespaces-bucket-sample-1983",
+        "ResourceType": "s3:bucket",
+        "Service": "s3"
+    },
+    {
+        "Arn": "arn:aws:ec2:us-west-2:401989331654:instance/i-02becf27594b07327",
+        "ResourceType": "ec2:instance",
+        "Service": "ec2"
+    }
+]
